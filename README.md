@@ -43,4 +43,4 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 
 ## Contributing
 
-Thanks goes to these [contributors](https://github.com/mcanouil/awesome-quarto/graphs/contributors)!
+Thanks goes to these [contributors](https://github.com/blenback/awesome-ABM-LU/graphs/contributors)!
