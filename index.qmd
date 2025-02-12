@@ -14,7 +14,7 @@ fig-align: center
 
 ![](media/media.png)
 
-{{< include sections/Contents.qmd >}}
+<!-- {{< include sections/Contents.qmd >}} -->
 
 {{< include sections/Featured__new_entries_.qmd >}}
 
