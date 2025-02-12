@@ -56,7 +56,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 
 [Modeling and Simulation of Complex Systems -A Framework for Efficient Agent-Based Modeling and Simulation](https://www.springer.com/gp/book/9783658075286)
 
-## Journals & Specialized Search Engine Links {#journals--specialized-search-engine-links}
+## Journals & Specialized Search Engine Links 
 
 Many technical or scientific journals relate to ABM techniques
 
@@ -78,7 +78,7 @@ Many technical or scientific journals relate to ABM techniques
 
 [Benjamin Schumann](https://www.benjamin-schumann.com/blog)
 
-## Open Source Frameworks, Libraries & Software {#open-source-frameworks-libraries--software}
+## Open Source Frameworks, Libraries & Software
 
 Several more can be found in the literature, but often non updated or maintained
 
