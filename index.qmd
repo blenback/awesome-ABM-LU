@@ -1,0 +1,31 @@
+---
+format:
+  html:
+    toc: true
+    toc-title: Contents
+    toc-location: left
+    toc-depth: 2
+    number-sections: true
+    number-depth: 1
+citation-location: margin
+lightbox: true
+fig-align: center
+---
+
+![](media/media.png)
+
+{{< include sections/Contents.qmd >}}
+
+{{< include sections/Featured__new_entries_.qmd >}}
+
+{{< include sections/Tutorials___workshops.qmd >}}
+
+{{< include sections/Books.qmd >}}
+
+{{< include sections/Journals___Specialized_Search_Engine_Links___journals__specialized_search_engine_links_.qmd >}}
+
+{{< include sections/Open_Source_Frameworks__Libraries___Software___open_source_frameworks_libraries__software_.qmd >}}
+
+{{< include sections/Blog_posts.qmd >}}
+
+{{< include sections/Talks_and_videos.qmd >}}

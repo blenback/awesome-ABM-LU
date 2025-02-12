@@ -49,5 +49,5 @@ split_markdown <- function(input_file, output_dir) {
 }
 
 # Example usage
-split_markdown("README.md", "output_dir")
+split_markdown("README.md", "sections")
 

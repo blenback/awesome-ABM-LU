@@ -1,0 +1,68 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  back-to-top-navigation: true
+  title: 'Awesome Agent-based Land Use Modelling'
+  search: TRUE #add search bar
+  site-url: "https://github.com/awesome-ABM-LU/"
+  description: "An Awesome List of resources for Agent-based Land Use Modelling"
+  open-graph: true
+  google-analytics:
+    tracking-id: "G-9CCC34ZV10"
+    anonymize-ip: true
+  page-footer:
+    left: |
+      {{< fa regular copyright >}} Awesome Agent-based Land Use Modelling, 2025<br>
+      All content licensed under {{< fa brands creative-commons >}}
+      {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-sa >}} {{< fa brands creative-commons-nc >}} [(CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+    right: |
+      Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)<br>
+  navbar:
+    align: "center"
+    background: secondary
+    foreground: light
+    tools:
+      - icon: github
+        menu:
+          - text: Source Code
+            url:  https://github.com/awesome-ABM-LU/awesome-ABM-LU
+          - text: Report a Bug
+            url:  https://github.com/awesome-ABM-LU/awesome-ABM-LU/issues
+  sidebar:
+    align: "left"
+    style: "floating"
+    border: false
+    search: true
+    collapse-level: 1
+  
+format:
+  html:
+    theme: 
+      light: [cosmo, theme-light.scss]
+      dark: [cosmo, theme-dark.scss]
+    code-copy: true
+    code-overflow: wrap
+    css: index.css
+    grid:
+      sidebar-width: 250px
+      body-width: 1200px
+      margin-width: 200px
+      gutter-width: 1.5rem
+    include-after-body:
+      text: |
+        <script type="application/javascript" src="light-dark.js"></script>
+crossref:
+  fig-title: ''
+  fig-labels: none
+execute:
+  error: true
+  warning: false
+
+
+
+    
+    
+
+
