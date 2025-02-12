@@ -1,0 +1,77 @@
+## Open Source Frameworks, Libraries & Software {#open-source-frameworks-libraries--software}
+
+Several more can be found in the literature, but often non updated or maintained
+
+[Project Mesa](https://github.com/projectmesa/mesa)
+
+[Agent Maps](https://github.com/noncomputable/AgentMaps)
+
+[Agent Script](https://github.com/backspaces/agentscript0) Not very active
+
+[Julia Dynamics](https://github.com/JuliaDynamics/Agents.jl)
+[>see also](https://julialang.org/)
+
+[GAMA](https://gama-platform.github.io/)
+
+[jCrowdSimulator](https://github.com/FraunhoferIVI/jCrowdSimulator)
+
+[SUMO](https://sumo.dlr.de/docs/index.html)
+
+[Jupedsim](http://www.jupedsim.org)
+
+[MatSim - Multi Agent Transportation](https://www.matsim.org)
+
+[Transims](https://en.wikipedia.org/wiki/Transims)
+[>see also](https://code.google.com/archive/p/transims/)
+
+[Chromosim](https://github.com/sylvain-faure/cromosim)
+[>see also](http://www.cromosim.fr) Not very active
+
+[Crowddynamics](https://github.com/jaantollander/crowddynamics) Not very active
+
+[FDS Evac](https://github.com/firemodels/fds)
+
+[MomenTUMv2](https://github.com/tumcms/MomenTUM)
+
+[SimMobility](https://github.com/smart-fm/simmobility-prod) Not very active / MIT Site reference closed
+
+[Cormas](http://cormas.cirad.fr/en/outil/outil.htm) Not very active
+
+[Crafty](https://www.wiki.ed.ac.uk/display/CRAFTY/Home) Not very active
+
+[DEV-Suite](https://acims.asu.edu/software/devs-suite/)
+
+[EcoLab](http://ecolab.sourceforge.net) Not very active
+
+[Envision](http://envision.bioe.orst.edu)
+
+[EvoPlex](https://evoplex.org)
+
+[HexSim](https://www.hexsim.net)
+
+[IDM](https://www.idmod.org/documentation)
+
+[Insight Maker](https://insightmaker.com)
+
+[Netlogo](https://ccl.northwestern.edu/netlogo/)
+
+[Simudyne](https://simudyne.com)
+
+[Accu:rate - Crowd:it](https://www.accu-rate.de/en/)
+
+[AimSun](https://www.aimsun.com/)
+
+[Anylogic](https://www.anylogic.com/)
+
+[ExtenSim](https://extendsim.com/)
+
+[InControl Simulation](https://www.incontrolsim.com/)
+
+[Oasys – PedSim](https://www.oasys-software.com/)
+
+[PTV Group](https://www.ptvgroup.com/en/)
+
+[QuadStone Paramics](http://www.paramics-online.com/)
+
+[Simio](https://www.simio.com/)
+

@@ -1,0 +1,22 @@
+## Journals & Specialized Search Engine Links {#journals--specialized-search-engine-links}
+
+Many technical or scientific journals relate to ABM techniques
+
+[Complex Adaptive Systems Modeling](https://link.springer.com/journal/40294)
+
+[OSF Preprints](https://osf.io/preprints/discover?q=Agent%20Based%20Modeling)
+
+[Wikiwand](https://www.wikiwand.com/en/Agent-based_model) & [Wikipedia](https://en.wikipedia.org/wiki/Agent-based_model)
+
+[Sparrho](https://www.sparrho.com/search/agent%20based%20modeling/)
+
+[ResearchGate](https://www.researchgate.net/search.Search.html?type=researcher&query=agent%20based%20modeling)
+
+[GitHub](https://github.com/search?q=agent+based+modeling&type=Repositories)
+
+[COMSES](https://www.comses.net/resources/modeling-frameworks/)
+
+[Academia.edu](https://www.academia.edu/search?q=Agent%20Based%20Modeling)
+
+[Benjamin Schumann](https://www.benjamin-schumann.com/blog)
+

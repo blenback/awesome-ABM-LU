@@ -1,0 +1,13 @@
+## Contents
+
+- [Featured (new entries)](#featured-new-entries)
+- [Tutorials \& workshops](#tutorials--workshops)
+- [Books](#books)
+- [Journals \& Specialized Search Engine Links](#journals--specialized-search-engine-links)
+- [Open Source Frameworks, Libraries \& Software](#open-source-frameworks-libraries--software)
+- [Blog posts](#blog-posts)
+- [Talks and videos](#talks-and-videos)
+
+<!--lint disable awesome-list-item-->
+<!--lint disable double-link-->
+

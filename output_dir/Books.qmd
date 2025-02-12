@@ -1,0 +1,17 @@
+## Books
+
+[Agent-based and Individual-based Modeling: A Practical Introduction](http://www.railsback-grimm-abm-book.com/)
+[>see also](https://press.princeton.edu/books/paperback/9780691096667/individual-based-modeling-and-ecology)
+
+[An Introduction to Agent-Based Modeling - Modeling Natural, Social, and Engineered Complex Systems with NetLogo](https://mitpress.mit.edu/books/introduction-agent-based-modeling)
+
+[Agent-Based Models in Economics: A Toolkit](https://www.amazon.com/Agent-Based-Models-Economics-Domenico-Delli/dp/1108414990)
+
+[Agent-Based Modelling and Geographical Information Systems- A Practical Primer](https://uk.sagepub.com/en-gb/eur/agent-based-modelling-and-geographical-information-systems/book250134)
+
+[Agent-Based Modeling and Network Dynamics](https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780198708285.001.0001/acprof-9780198708285?rskey=7mwT7m&result=2)
+
+[Agent-Based Modeling and Simulation with Swarm](https://www.routledge.com/Agent-Based-Modeling-and-Simulation-with-Swarm-1st-Edition/Iba/p/book/9781138033702)
+
+[Modeling and Simulation of Complex Systems -A Framework for Efficient Agent-Based Modeling and Simulation](https://www.springer.com/gp/book/9783658075286)
+
